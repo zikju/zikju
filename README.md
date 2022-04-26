@@ -13,7 +13,10 @@
 
 > Recently I started dating a young beautiful girl named **Vue.js**. This fact pisses off my old wife **jQuery**.
 
-> Every birthday I make a wish for a **git version control** in real life and for one single display resolution on all devices.
+> Every christmas I ask Santa:
+> - for a **git version control** in personal life
+> - for one single display resolution on all devices
+> - and to slap around a bit with a large trout - every Wordpress Administrator, who names himself a programmer
 
 ### Code-snippets About Me:
 
