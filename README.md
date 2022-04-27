@@ -34,7 +34,7 @@ const Pavel = {
         ltu: 'Lietuvių',
         en: 'English'
     },
-    askMeAbout: ['web dev', 'tech', 'pub quizes', 'party games', 'movies'],
+    askMeAbout: ['web dev', 'pub quizes', 'party games', 'movies'],
     currentFocus: "Building entertainment web-apps"
 };
 
@@ -51,13 +51,13 @@ class About extends My implements Skills
     public function getDailyKnowledge(): array
     {
         return array(
-            'frontend' => ['VueJS', 'jQuery', 'HTML5'],
-            'backend' => ['PHP', 'REST API'], // TODO: Laravel, Node.js
-            'styles' => ['CSS3', 'SCSS', 'Bootstrap'], // TODO: TailwindCSS
-            'databases' => ["MySQL"], // TODO: Redis, MongoDB
-            'misc' => ['Quasar Framework', 'GitHub', 'Electron', 'JIRA', 'Trello'],
+            'frontend'     => ['JavaScript', 'Vue.js', 'Quasar Framework', 'jQuery', 'HTML5'],
+            'backend'      => ['PHP', 'Laravel', 'REST API'], // TODO: Node.js
+            'styles'       => ['CSS3', 'SCSS', 'Bootstrap'], // TODO: TailwindCSS
+            'databases'    => ["MySQL"], // TODO: Redis, MongoDB
+            'misc'         => ['GitHub', 'Electron', 'JIRA', 'Trello'],
             'architecture' => ['SPA', 'PWA', 'SSR'],
-            'soft': ['PhpStorm', 'Postman', 'HeidiSQL', 'WinSCP', 'Xshell', 'Photoshop'],
+            'soft'         => ['PhpStorm', 'Postman', 'Toggl', 'WinSCP', 'Xshell', 'Photoshop'],
         );
     }
 }
