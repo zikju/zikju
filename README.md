@@ -3,7 +3,7 @@
 
 ### Quick facts:
 - :nerd_face: Lithuanian citizen, who speaks russian, reads english and writes in PhpStorm
-- :older_man: Self-educated computer enthusiast who remembers Php-Nuke, phpBB, IRC and world before Web 2.0
+- :older_man: Self-educated computer enthusiast who remembers Php-Nuke, phpBB, mIRC and world before Web 2.0
 - :trollface: I know how to annoy `<span>a web developer</div>`
 - :trophy: Self-proclaimed champion in solving self-screwed up errors. God bless stackoverflow!
 - :drop_of_blood: Cut me and I'll bleed #ff0000
