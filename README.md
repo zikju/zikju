@@ -1,22 +1,22 @@
-## ✨ Poking on the keyboard with my tongue sticking out to make internet more awesome ✨
+## ✨ Poking at the keyboard with my tongue out to make the internet more awesome ✨
 [![wakatime](https://wakatime.com/badge/user/a47e484d-baa5-4c04-80e7-ce9cf7bebd8c.svg)](https://wakatime.com/@a47e484d-baa5-4c04-80e7-ce9cf7bebd8c) <sub><sup>since Jul 25 2020</sub></sup>
 
 ### Quick facts:
 - :nerd_face: Lithuanian citizen, who speaks russian, reads english and writes in PhpStorm
-- :older_man: Self-educated computer enthusiast who remembers Php-Nuke, phpBB, mIRC and world before Web 2.0
+- :older_man: Self-taught computer enthusiast who remembers Php-Nuke, phpBB, mIRC and the world before Web 2.0
 - :trollface: I know how to annoy `<span>a web developer</div>`
-- :trophy: Self-proclaimed champion in solving self-screwed up errors. God bless stackoverflow!
+- :trophy: Self-proclaimed champion at fixing self-made bugs. God bless stackoverflow!
 - :drop_of_blood: Cut me and I'll bleed #ff0000
 
-### My stand-up routine could sound something like:
-> You know, they say that it is difficult to choose whom you love more - mom or dad? Well, I have the same problem with **JavaScript** and **PHP**.
+### My stand-up routine might go something like this:
+> You know how they say it is hard to decide who you love more - mum or dad? Well, I have the same problem with **JavaScript** and **PHP**.
 
-> Recently I started dating a young beautiful girl named **Vue.js**. This fact pisses off my old wife **jQuery**.
+> Recently, I started dating a beautiful young girl named Vue.js. This pisses off my old wife **jQuery**.
 
-> Every christmas I ask Santa:
-> - for a **git version control** in personal life
-> - for one single display resolution on all devices
-> - and to slap around a bit with a large trout - every Wordpress Administrator, who names himself a programmer
+> Every Christmas I ask Santa Claus:
+> - for **git version control** in my personal life
+> - for a single screen resolution on all devices
+> - and to slap around a bit with a large trout - every Wordpress Administrator who calls himself a programmer
 
 ### Code-snippets About Me:
 
