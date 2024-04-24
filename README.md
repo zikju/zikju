@@ -51,13 +51,14 @@ class About extends My implements Skills
     public function getDailyKnowledge(): array
     {
         return array(
-            'frontend'     => ['JavaScript', 'Vue.js', 'Quasar Framework', 'jQuery', 'HTML5'],
-            'backend'      => ['PHP', 'Laravel', 'REST API'], // TODO: Node.js
+            'frontend'     => ['JavaScript', 'Vue.js', 'jQuery', 'HTML5'], // TODO: TypeScript
+            'backend'      => ['PHP', 'Node.js'],
+            'frameworks'   => ['Laravel', 'Quasar Framework', 'Electron.js'],
             'styles'       => ['CSS3', 'SCSS', 'Bootstrap'], // TODO: TailwindCSS
             'databases'    => ["MySQL"], // TODO: Redis, MongoDB
-            'misc'         => ['GitHub', 'Electron', 'JIRA', 'Trello'],
+            'misc'         => ['GitHub', 'JIRA', 'Trello'],
             'architecture' => ['SPA', 'PWA', 'SSR'],
-            'soft'         => ['PhpStorm', 'Postman', 'Toggl', 'WinSCP', 'Xshell', 'Photoshop'],
+            'soft'         => ['PhpStorm', 'Postman', 'Toggl', 'WinSCP', 'Xshell', 'Photoshop', 'Adobe Audition'],
         );
     }
 }
